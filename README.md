@@ -117,49 +117,51 @@ The following command tells you whether the flutter and dart commands originate 
 #### Application Screenshots
 
 > Back4App Dashboard
-![Picture1](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture1.png)
 
-![Picture2](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture2.png)
+Just use:
+
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture1.png" width="800">
+
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture2.png" width="800">
 
 > Back4App API Key
-![Picture4](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture4.png)
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture4.png" width="800">
 
 > Configuring API Key in Flutter Application
-![Picture3](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture3.png)
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture3.png" width="800">
 
 > Flutter Web Application
-![Picture7](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture1.png)
-![Picture7](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture7.png)
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture1.png" width="800">
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture7.png" width="800">
 
 > Flutter Mobile Application - Android
-![Picture9](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture9.jpg )
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture9.jpg" width="300">
 
 
 > Adding Task - Android
-<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture9.jpg" width="200">
-![Picture9](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture9.jpg )
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture9.jpg" width="300">
 
 > Task Updated in Web Application
-![Picture7](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture7.png )
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture7.png" width="800">
 
 > Adding Task - Web Application
-![Picture5](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture5.png )
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture5.png" width="800">
 
 > Back4App Database Updated the Status
-![Picture2](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture2.png )
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture2.png" width="800">
 
 > Refreshing Mobile Application to get Status
-![Picture2](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture12.jpg )
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture12.jpg" width="300">
 
 > Adding a Task and Deleting it from Mobile 
 
-![Picture9](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture9.jpg )
-![Picture11](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture11.jpg )
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture9.jpg" width="300">
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture11.jpg" width="300">
 
 
 > Opening new screen with task details
 
-![Picture10](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture10.jpg )
+<img src="https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture10.jpg" width="300">
 
 #### References
 
