@@ -117,17 +117,19 @@ The following command tells you whether the flutter and dart commands originate 
 #### Application Screenshots
 
 > Back4App Dashboard
-[![Picture1](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture1.png)]
-[![Picture2](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture2.png)]
+![Picture1](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture1.png)
+
+![Picture2](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture2.png)
+
 > Back4App API Key
-[![Picture4](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture4.png)]
+![Picture4](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture4.png)
 
 > Configuring API Key in Flutter Application
-[![Picture3](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture3.png)]
+![Picture3](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture3.png)
 
 > Flutter Web Application
-[![Picture7](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture1.png)]
-[![Picture7](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture7.png)]
+![Picture7](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture1.png)
+![Picture7](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture7.png)
 
 > Flutter Mobile Application - Android
 ![Picture9](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture9.jpg )
