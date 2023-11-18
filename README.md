@@ -117,52 +117,46 @@ The following command tells you whether the flutter and dart commands originate 
 #### Application Screenshots
 
 > Back4App Dashboard
-![image description or alt text](https://images.pexels.com/photos/19017576/pexels-photo-19017576/free-photo-of-sunflowers-photograpy.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-<img src="/to_do_app/screens/Picture1.png" width="800">
-<img src="to_do_app/screens/Picture2.png" width="800">
+[![Picture1](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture1.png)]
+[![Picture2](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture2.png)]
 > Back4App API Key
-<img src="to_do_app/master/screens/Picture4.png" width="800">
+[![Picture4](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture4.png)]
 
 > Configuring API Key in Flutter Application
-<img src="screen/Picture3.png" width="800">
+[![Picture3](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture3.png)]
 
 > Flutter Web Application
-<img src="screen/Picture5.png" width="800">
-<img src="screen/Picture6.png" width="800">
-<img src="screen/Picture7.png" width="800">
+[![Picture7](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture1.png)]
+[![Picture7](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture7.png)]
 
 > Flutter Mobile Application - Android
-<p float="left">
-<img src="screen/Picture8.png" width="300">
-</p>
+![Picture9](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture9.jpg )
+
 
 > Adding Task - Android
-<p float="left">
-<img src="screen/Picture9.png" width="300">
-</p>
+![Picture9](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture9.jpg )
 
 > Task Updated in Web Application
-<img src="screen/Picture7.png" width="500">
+![Picture7](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture7.png )
 
 > Adding Task - Web Application
-<img src="screen/Picture6.png" width="500">
+![Picture5](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture5.png )
 
 > Back4App Database Updated the Status
-<img src="screen/Picture2.png" width="300">
+![Picture2](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture2.png )
 
 > Refreshing Mobile Application to get Status
-<img src="screen/Picture12.png" width="300">
+![Picture2](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture12.jpg )
 
-> Adding a Task and Deleting it from Mobile - iOS
-<p float="left">
-<img src="screen/Picture9.png" width="300">
-<img src="screen/Picture11.png" width="300">
-</p>
+> Adding a Task and Deleting it from Mobile 
+
+![Picture9](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture9.jpg )
+![Picture11](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture11.jpg )
+
 
 > Opening new screen with task details
-<p float="left">
-<img src="screen/Picture10.png" width="300">
-</p>
+
+![Picture10](https://techhup-cloudfrontdemo.s3.ap-south-1.amazonaws.com/screens/Picture10.jpg )
 
 #### References
 
