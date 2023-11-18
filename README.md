@@ -117,10 +117,10 @@ The following command tells you whether the flutter and dart commands originate 
 #### Application Screenshots
 
 > Back4App Dashboard
-<img src="/master/screens/Picture1.png" width="800">
-<img src="/screens/Picture2.png" width="800">
+<img src="/to_do_app/screens/Picture1.png" width="800">
+<img src="to_do_app/screens/Picture2.png" width="800">
 > Back4App API Key
-<img src="screens/Picture4.png" width="800">
+<img src="to_do_app/master/screens/Picture4.png" width="800">
 
 > Configuring API Key in Flutter Application
 <img src="screen/Picture3.png" width="800">
