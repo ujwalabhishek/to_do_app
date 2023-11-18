@@ -117,7 +117,7 @@ The following command tells you whether the flutter and dart commands originate 
 #### Application Screenshots
 
 > Back4App Dashboard
-![image description or alt text](https://github.com/ujwalabhishek/to_do_app/master/screens/Picture10.jpg)
+![image description or alt text](/screens/Picture10.jpg)
 <img src="/to_do_app/screens/Picture1.png" width="800">
 <img src="to_do_app/screens/Picture2.png" width="800">
 > Back4App API Key
